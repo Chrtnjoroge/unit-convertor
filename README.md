@@ -49,7 +49,7 @@ This project is a simple unit conversion program written in C. It allows users t
 
 3. Run the program.
    ```bash
-   ./unit_convertor
+   ./unit convertor.c
    ```
 
 ## Contributing
