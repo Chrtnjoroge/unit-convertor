@@ -39,7 +39,7 @@ This project is a simple unit conversion program written in C. It allows users t
 1. Clone the repository.
    ```bash
    git clone https://github.com/Chrtnjoroge/unit-convertor.git
-   cd unit-conversion
+   cd unit-convertor
    ```
 
 2. Compile the C file.
